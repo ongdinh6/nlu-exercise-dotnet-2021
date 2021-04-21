@@ -1,0 +1,16 @@
+F:\LTDotNet\Lab1\Lab1\bin\Debug\net5.0\Lab1.exe
+F:\LTDotNet\Lab1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+F:\LTDotNet\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+F:\LTDotNet\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+F:\LTDotNet\Lab1\Lab1\bin\Debug\net5.0\Lab1.dll
+F:\LTDotNet\Lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+F:\LTDotNet\Lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
+F:\LTDotNet\Lab1\Lab1\obj\Debug\net5.0\Lab1.csprojAssemblyReference.cache
+F:\LTDotNet\Lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTDotNet\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+F:\LTDotNet\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+F:\LTDotNet\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+F:\LTDotNet\Lab1\Lab1\obj\Debug\net5.0\Lab1.dll
+F:\LTDotNet\Lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+F:\LTDotNet\Lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
+F:\LTDotNet\Lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
