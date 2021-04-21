@@ -54,4 +54,9 @@
               "privateAssets": "all"
             }
           },
-          "runt
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

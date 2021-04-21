@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\LTDotNet\\buoi4\\buoi4\\buoi4.csproj",
+      "projectUniqueName": "F:\\LTDotNet\\nlu-exercise-dotnet-2021\\buoi4\\buoi4\\buoi4.csproj",
       "projectName": "buoi4",
-      "projectPath": "F:\\LTDotNet\\buoi4\\buoi4\\buoi4.csproj",
+      "projectPath": "F:\\LTDotNet\\nlu-exercise-dotnet-2021\\buoi4\\buoi4\\buoi4.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\LTDotNet\\buoi4\\buoi4\\obj\\",
+      "outputPath": "F:\\LTDotNet\\nlu-exercise-dotnet-2021\\buoi4\\buoi4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

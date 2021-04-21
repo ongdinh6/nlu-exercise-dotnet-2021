@@ -36,6 +36,7 @@ namespace buoi2
 
         }
 
+
         public int CompareTo([AllowNull] SinhVien other)
         {
             return this.Ten.CompareTo(other.Ten);

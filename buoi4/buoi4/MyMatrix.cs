@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Text;
 
 namespace buoi4
 {
@@ -82,6 +83,91 @@ namespace buoi4
             }
         }
 
+        void printSumOfRow()
+        {
+            for(int i = 0; i < m; i++)
+            {
+            int sum = 0;
+                for(int j = 0; j < n; j++)
+                {
+                    sum += matrix[i, j];
+                }
+                Console.WriteLine("Tong hang thu {0}", i+" = "+sum);
+            }
+
+        }
+        void printElementOutLine()
+        {
+            StringBuilder rs = new StringBuilder();
+            for (int i = 0; i < m; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    if (i == 0 || j == 0 || i == m - 1 || j == n - 1)
+                    {
+                        rs.Append(matrix[i, j]+" ");
+                    }
+                    else
+                    {
+                        rs.Append("  ");
+                    }
+                }
+                rs.Append("\n");
+            }
+            Console.WriteLine(rs);
+        }
+
+        int sumOfElementsOutLine()
+        {
+            int sum = 0;
+            for (int i = 0; i < m; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    if (i == 0 || j == 0 || i == m - 1 || j == n - 1)
+                    {
+                        sum += matrix[i, j];
+                    }
+                  
+                }
+              
+            }
+            return sum;
+        }
+
+        void printAllMinValueInColumns()
+        {
+           
+            for (int i = 0; i < m; i++)
+            {
+                 int min = matrix[0, i];
+                for (int j = 0; j < n; j++)
+                {
+                    if (matrix[i,j] <= min)
+                    {
+                        min = matrix[i, j];
+                    }
+                    Console.WriteLine(j== n-1 ? "Gia tri nho nhat o cot " + i + " la: " + min : "");
+                }
+            }
+        }
+        void printAllMaxValueInRows()
+        {
+           
+            for (int i = 0; i < m; i++)
+            {
+                int max = matrix[i, 0];
+                for (int j = 0; j < n; j++)
+                {
+                    if (matrix[i, j] >= max)
+                    {
+                        max = matrix[i, j];
+                    }
+                }
+                Console.WriteLine("Gia tri lon nhat o dong " + i + " la: " + max);
+            }
+        }
+
         public static void Main(string[] args)
         {
             MyMatrix ma = new MyMatrix(3, 3);
@@ -91,6 +177,16 @@ namespace buoi4
             Console.WriteLine("Danh sach cac so nguyen to: ");
             ArrayList arrPrimaryNumber =  ma.getArrPrimary();
             ma.printArrInt(arrPrimaryNumber);
+            Console.WriteLine("\n======Tong cac so tren tung hang======");
+            ma.printSumOfRow();
+            Console.WriteLine("\n======Cac phan tu ngoai bien=======");
+            ma.printElementOutLine();
+            Console.WriteLine("\n======Tong cac phan tu ngoai bien=======");
+            Console.WriteLine(ma.sumOfElementsOutLine());
+            Console.WriteLine("\n======Gia tri nho nhat tren cot cua ma tran=======");
+            ma.printAllMinValueInColumns();
+            Console.WriteLine("\n======Gia tri lon nhat tren dong cua ma tran=======");
+            ma.printAllMaxValueInRows();
         }
 
 
