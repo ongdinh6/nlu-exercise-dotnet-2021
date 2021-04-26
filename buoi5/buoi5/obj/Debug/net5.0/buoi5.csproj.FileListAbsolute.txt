@@ -1,0 +1,16 @@
+F:\LTDotNet\buoi5\buoi5\bin\Debug\net5.0\buoi5.exe
+F:\LTDotNet\buoi5\buoi5\bin\Debug\net5.0\buoi5.deps.json
+F:\LTDotNet\buoi5\buoi5\bin\Debug\net5.0\buoi5.runtimeconfig.json
+F:\LTDotNet\buoi5\buoi5\bin\Debug\net5.0\buoi5.runtimeconfig.dev.json
+F:\LTDotNet\buoi5\buoi5\bin\Debug\net5.0\buoi5.dll
+F:\LTDotNet\buoi5\buoi5\bin\Debug\net5.0\ref\buoi5.dll
+F:\LTDotNet\buoi5\buoi5\bin\Debug\net5.0\buoi5.pdb
+F:\LTDotNet\buoi5\buoi5\obj\Debug\net5.0\buoi5.csprojAssemblyReference.cache
+F:\LTDotNet\buoi5\buoi5\obj\Debug\net5.0\buoi5.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTDotNet\buoi5\buoi5\obj\Debug\net5.0\buoi5.AssemblyInfoInputs.cache
+F:\LTDotNet\buoi5\buoi5\obj\Debug\net5.0\buoi5.AssemblyInfo.cs
+F:\LTDotNet\buoi5\buoi5\obj\Debug\net5.0\buoi5.csproj.CoreCompileInputs.cache
+F:\LTDotNet\buoi5\buoi5\obj\Debug\net5.0\buoi5.dll
+F:\LTDotNet\buoi5\buoi5\obj\Debug\net5.0\ref\buoi5.dll
+F:\LTDotNet\buoi5\buoi5\obj\Debug\net5.0\buoi5.pdb
+F:\LTDotNet\buoi5\buoi5\obj\Debug\net5.0\buoi5.genruntimeconfig.cache
