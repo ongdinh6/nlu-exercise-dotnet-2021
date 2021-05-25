@@ -1,0 +1,16 @@
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\bin\Debug\netcoreapp3.1\Formater.exe
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\bin\Debug\netcoreapp3.1\Formater.deps.json
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\bin\Debug\netcoreapp3.1\Formater.runtimeconfig.json
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\bin\Debug\netcoreapp3.1\Formater.runtimeconfig.dev.json
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\bin\Debug\netcoreapp3.1\Formater.dll
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\bin\Debug\netcoreapp3.1\Formater.pdb
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.csprojAssemblyReference.cache
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.Form1.resources
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.Properties.Resources.resources
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.csproj.GenerateResource.cache
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.AssemblyInfoInputs.cache
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.AssemblyInfo.cs
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.csproj.CoreCompileInputs.cache
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.dll
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.pdb
+F:\LTDotNet\nlu-exercise-dotnet-2021\Formater\Formater\obj\Debug\netcoreapp3.1\Formater.genruntimeconfig.cache
